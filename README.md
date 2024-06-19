@@ -4,7 +4,7 @@ This is a Weather App Build with Nextjs, TailwindCss and ShadCn
 
 ![Example Image](/public/LightTheme.png)
 
-![Example Image](public/LightTheme.png)
+![Example Image](/public/DarkTheme.png)
 
 ## Getting Started
 
