@@ -1,5 +1,11 @@
 This is a Weather App Build with Nextjs, TailwindCss and ShadCn
 
+## Weather App
+
+![Example Image](LightTheme.png)
+
+![Example Image](DarkTheme.png)
+
 ## Getting Started
 
 First, run the development server:
@@ -16,8 +22,8 @@ pnpm dev
 bun dev
 ```
 
-
 ## OpenWeatherMap APi
+
 ```bash
 First Login to OpenWeather account.
 
@@ -25,5 +31,3 @@ Then extract your apiKey from the "My API keys" section of your profile which wi
 
 Now you copy and paste the apiKey in the environment variables
 ```
-
-
