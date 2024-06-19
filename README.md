@@ -2,9 +2,9 @@ This is a Weather App Build with Nextjs, TailwindCss and ShadCn
 
 ## Weather App
 
-![Example Image](LightTheme.png)
+![Example Image](/public/LightTheme.png)
 
-![Example Image](DarkTheme.png)
+![Example Image](public/LightTheme.png)
 
 ## Getting Started
 
