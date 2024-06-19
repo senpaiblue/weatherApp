@@ -1,3 +1,5 @@
+import DailyForeCast from "@/components/DailyForeCast/DailyForeCast";
+import FiveDayForecast from "@/components/FiveDayForecast/FiveDayForecast";
 import Navbar from "@/components/Navbar";
 import Temperature from "@/components/Temperature/Temperature";
 import Image from "next/image";
@@ -9,6 +11,8 @@ export default function Home() {
      <div className="pb-4 flex flex-col gap-4 md:flex-row"></div>
      <div className="flex flex-col gap-4 w-full">
       <Temperature/>
+      <DailyForeCast/>
+      <FiveDayForecast/>
      </div>
      <div className="flex flex-col"></div>
     </main>
